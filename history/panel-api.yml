@@ -1,7 +1,7 @@
-url: ${{ secrets.PG_PANEL_API }}
+url: $PG_PANEL_API
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2024-07-30T22:26:57.759Z
+lastUpdated: 2024-07-30T22:29:37.877Z
 startTime: 2024-07-30T21:04:51.365Z
 generator: Upptime <https://github.com/upptime/upptime>
