@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 230,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
     "name": "Panel API",
-    "url": "${{ secrets.PG_PANEL_API }}",
+    "url": "$PG_PANEL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "panel-api",
     "status": "down",
-    "uptime": "89.77%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "89.77%",
-    "uptimeMonth": "89.77%",
-    "uptimeYear": "89.77%",
+    "uptime": "86.96%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "86.96%",
+    "uptimeYear": "86.96%",
     "time": 178,
     "timeDay": 178,
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-07-30": 8
+      "2024-07-30": 11
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
