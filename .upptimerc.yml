@@ -7,6 +7,7 @@ sites:
     url: $PG_PANEL
   - name: Panel API
     url: $PG_PANEL_API
+    port: 8443
     expectedStatusCodes:
       - 401
   - name: Discord Invite
