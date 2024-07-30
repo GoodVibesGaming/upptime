@@ -6,9 +6,16 @@ sites:
   - name: Panel Page
     url: $PG_PANEL
   - name: Panel API
-    url: $PG_PANEL_API
+    url: $PG_INT_API
     check: "tcp-ping"
     port: 8443
+  - name: Palworld World
+    url: $PG_PANEL/api/client/servers/1db43d2a/resources
+    headers:
+      - "Authorization: Bearer $GS_API_KEY"
+      - "Accept: application/json"
+      - "Content-Type: application/json"
+    __dangerous__body_down_if_text_missing: '"current_state":"running"'
   - name: Discord Invite
     url: https://discord.gg/vxuKHHuQNk
 
