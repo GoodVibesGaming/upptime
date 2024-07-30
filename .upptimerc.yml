@@ -5,12 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Panel Page
     url: $PG_PANEL
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Panel API
+    url: $PG_PANEL_API
+    expectedStatusCodes:
+      - 401
   - name: Discord Invite
     url: https://discord.gg/vxuKHHuQNk
 
@@ -19,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   robotsText: "User-agent: * \n Disallow: /"
-  theme: dark
+  theme: night
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Good Vibes Gaming Status Page
