@@ -6,7 +6,7 @@ sites:
   - name: Panel Page
     url: $PG_PANEL
   - name: Panel API
-    url: $PG_PANEL_API
+    url: $PG_PANEL
     check: "tcp-ping"
     port: 8443
   - name: Discord Invite
