@@ -5,10 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Panel Frontend
     url: $PG_PANEL
+    maxResponseTime: 2000
+    icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/website-2789449-2334235.png?f=ico&w=256
   - name: Panel API
     url: $PG_INT_API
     check: "tcp-ping"
     port: 8443
+    maxResponseTime: 2000
+    icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/api-integration-3919190-3246461.png?f=ico&w=256
   - name: Palworld Server
     url: $PG_PANEL/api/client/servers/1db43d2a/resources
     headers:
@@ -16,6 +20,8 @@ sites:
       - "Accept: application/json"
       - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: '"current_state":"running"'
+    maxResponseTime: 2000
+    icon: https://palworld.wiki.gg/favicon.ico
   - name: ATS Server
     url: $PG_PANEL/api/client/servers/fc8ff198/resources
     headers:
@@ -23,8 +29,11 @@ sites:
       - "Accept: application/json"
       - "Content-Type: application/json"
     __dangerous__body_down_if_text_missing: '"current_state":"running"'
+    maxResponseTime: 2000
+    icon: https://trucksimulator.wiki.gg/favicon.ico
   - name: Discord Invite
     url: https://discord.gg/vxuKHHuQNk
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,6 +46,9 @@ status-website:
   name: Good Vibes Gaming Status Page
   introTitle: "Got a question? Join the Discord using the link above!"
   introMessage: This status page will monitor the services needed to connect to the GoodVibes Gaming Server.
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
