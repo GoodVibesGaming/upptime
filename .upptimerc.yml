@@ -59,7 +59,9 @@ status-website:
       href: /
     - title: Discord
       href: https://discord.gg/vxuKHHuQNk
-
+      
+i18n:
+ footer: This page is [created]($REPO) ©2024 by [Good Vibes Only](https://discord.gg/vxuKHHuQNk)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
