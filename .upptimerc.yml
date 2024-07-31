@@ -13,6 +13,11 @@ sites:
     port: 8443
     maxResponseTime: 2000
     icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/api-integration-3919190-3246461.png?f=ico&w=256
+  - name: Palworld Tunnel (Connection URL)
+    url: $PG_PANEL/tstat.txt
+    __dangerous__body_down_if_text_missing: '"active_status": true'
+    maxResponseTime: 2000
+    icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/tunnel-144640.png?f=ico&w=256
   - name: Palworld Server
     url: $PG_PANEL/api/client/servers/1db43d2a/resources
     headers:
