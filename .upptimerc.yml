@@ -15,7 +15,7 @@ sites:
     icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/api-integration-3919190-3246461.png?f=ico&w=256
   - name: Palworld Tunnel (Connection URL)
     url: $PG_PANEL/tstat.txt
-    __dangerous__body_down_if_text_missing: '"active_status": true'
+    __dangerous__body_degraded_if_text_missing: '"tunnel_status": "up"'
     maxResponseTime: 2000
     icon: https://cdn.iconscout.com/icon/premium/png-512-thumb/tunnel-144640.png?f=ico&w=256
   - name: Palworld Server
@@ -50,7 +50,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Good Vibes Gaming Status Page
   introTitle: "Got a question? Join the Discord using the link above!"
-  introMessage: This status page will monitor the services needed to connect to the GoodVibes Gaming Server.
+  introMessage: This status page will monitor the services needed to connect to the Good Vibes Gaming Server.
   metaTags:
     - name: "robots"
       content: "noindex"
