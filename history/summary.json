@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 343,
-    "timeDay": 257,
-    "timeWeek": 201,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "time": 341,
+    "timeDay": 269,
+    "timeWeek": 207,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2024-08-03": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 50,
+    "time": 49,
     "timeDay": 13,
-    "timeWeek": 27,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "timeWeek": 24,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {
       "2024-08-03": 21
     }
@@ -45,16 +45,16 @@
     "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/tunnel-144640.png?f=ico&w=256",
     "slug": "palworld-tunnel-connection-url",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 73,
-    "timeDay": 95,
-    "timeWeek": 68,
-    "timeMonth": 73,
-    "timeYear": 73,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 74,
+    "timeDay": 85,
+    "timeWeek": 72,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {
       "2024-08-13": 20,
       "2024-08-03": 21
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 155,
-    "timeDay": 176,
-    "timeWeek": 152,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 156,
+    "timeDay": 177,
+    "timeWeek": 159,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2024-08-03": 21
     }
@@ -92,8 +92,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 144,
-    "timeDay": 153,
-    "timeWeek": 140,
+    "timeDay": 157,
+    "timeWeek": 147,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 296,
-    "timeWeek": 389,
+    "timeDay": 351,
+    "timeWeek": 383,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {}
