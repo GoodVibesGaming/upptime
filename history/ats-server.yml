@@ -1,7 +1,7 @@
 url: $PG_PANEL/api/client/servers/fc8ff198/resources
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-31T19:13:28.567Z
+status: up
+code: 200
+responseTime: 122
+lastUpdated: 2024-08-31T20:57:46.483Z
 startTime: 2024-07-30T23:47:09.157Z
 generator: Upptime <https://github.com/upptime/upptime>
