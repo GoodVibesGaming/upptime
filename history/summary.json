@@ -13,7 +13,7 @@
     "time": 321,
     "timeDay": 253,
     "timeWeek": 234,
-    "timeMonth": 323,
+    "timeMonth": 328,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-08-03": 23
@@ -44,18 +44,19 @@
     "url": "$PG_PANEL/tstat.txt",
     "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/tunnel-144640.png?f=ico&w=256",
     "slug": "palworld-tunnel-connection-url",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 75,
-    "timeDay": 88,
-    "timeWeek": 80,
+    "timeDay": 91,
+    "timeWeek": 81,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
+      "2024-08-31": 0,
       "2024-08-13": 20,
       "2024-08-03": 21
     }
@@ -74,7 +75,7 @@
     "time": 162,
     "timeDay": 192,
     "timeWeek": 187,
-    "timeMonth": 162,
+    "timeMonth": 161,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2024-08-03": 21
@@ -114,7 +115,7 @@
     "time": 342,
     "timeDay": 286,
     "timeWeek": 321,
-    "timeMonth": 346,
+    "timeMonth": 348,
     "timeYear": 342,
     "dailyMinutesDown": {}
   }
