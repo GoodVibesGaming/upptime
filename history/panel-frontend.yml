@@ -1,7 +1,7 @@
 url: $PG_PANEL
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2024-09-11T23:19:21.159Z
+status: down
+code: 500
+responseTime: 1016
+lastUpdated: 2024-09-12T10:41:27.288Z
 startTime: 2024-07-30T23:47:07.514Z
 generator: Upptime <https://github.com/upptime/upptime>
