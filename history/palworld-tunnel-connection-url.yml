@@ -1,7 +1,7 @@
 url: $PG_PANEL/tstat.txt
 status: degraded
 code: 523
-responseTime: 5197
-lastUpdated: 2024-10-09T23:22:28.811Z
+responseTime: 36
+lastUpdated: 2024-10-10T23:20:42.613Z
 startTime: 2024-07-31T06:08:03.606Z
 generator: Upptime <https://github.com/upptime/upptime>
