@@ -1,7 +1,7 @@
 url: $PG_PANEL
-status: down
+status: degraded
 code: 523
-responseTime: 145
-lastUpdated: 2024-10-11T15:33:17.502Z
+responseTime: 3259
+lastUpdated: 2024-10-11T15:44:21.877Z
 startTime: 2024-07-30T23:47:07.514Z
 generator: Upptime <https://github.com/upptime/upptime>
