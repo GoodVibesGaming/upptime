@@ -1,7 +1,7 @@
 url: $PG_PANEL/api/client/servers/1db43d2a/resources
 status: down
-code: 521
-responseTime: 19
-lastUpdated: 2025-07-02T23:25:03.155Z
+code: 0
+responseTime: 0
+lastUpdated: 2025-07-03T23:23:52.399Z
 startTime: 2024-07-30T23:47:08.683Z
 generator: Upptime <https://github.com/upptime/upptime>
